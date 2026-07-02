@@ -399,7 +399,7 @@ function Index() {
                 transition={{ duration: 5, repeat: Infinity, ease: "easeInOut" }}
               />
               <img
-                src={vaishnaviProfile.url}
+                src={vaishnaviProfile}
                 alt="Vaishnavi"
                 onError={(e) => {
                   (e.currentTarget as HTMLImageElement).src =
