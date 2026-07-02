@@ -5,7 +5,7 @@ import pupilHeartRateImg from "../assets/pupil-heart-rate.jpg";
 import busActivityImg from "../assets/bus-activity-detection.jpg";
 import portfolioSiteImg from "../assets/portfolio-site.jpg";
 import calculatorAppImg from "../assets/calculator-app.jpg";
-import vaishnaviProfile from "../assets/profile-new.jpg";
+import vaishnaviProfile from "../assets/profile.jpg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
