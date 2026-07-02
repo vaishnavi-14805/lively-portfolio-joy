@@ -327,8 +327,8 @@ function Index() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5, duration: DUR.base, ease: EASE }}
             >
-              Passionate about Python programming, web development,
-              problem solving and creating innovative solutions.
+              A driven Python developer passionate about turning ideas into functional, elegant software. Constantly learning, building, and solving real-world problems through code. Eager to contribute to impactful projects while continuously growing as a developer.
+              
             </motion.p>
 
             <motion.div
